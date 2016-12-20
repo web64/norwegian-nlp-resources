@@ -13,3 +13,8 @@ A work-in-progress list useful NLP resources for Norwegian.
 ## Open Source Libraries
 Libraries with support of the Norwegian language
 * [Polyglot](https://github.com/aboSamoor/polyglot)
+
+
+## Norwegian specific libraries
+* (https://github.com/ljos/anna_lyse)
+* (https://github.com/petterhh/ndt-tools)
