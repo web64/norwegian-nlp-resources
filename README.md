@@ -18,3 +18,4 @@ Libraries with support of the Norwegian language
 ## Norwegian specific libraries
 * <https://github.com/ljos/anna_lyse>
 * <https://github.com/petterhh/ndt-tools>
+* <https://github.com/andrely/Norwegian-NLP-models>
