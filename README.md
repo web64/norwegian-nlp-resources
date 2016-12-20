@@ -8,3 +8,8 @@ A work-in-progress list useful NLP resources for Norwegian.
   Sentiment analysis
 * [http://monkeylearn.com/](http://monkeylearn.com/)
   Text Classification
+
+
+## Open Source Libraries
+Libraries with support of the Norwegian language
+* [https://github.com/aboSamoor/polyglot](https://github.com/aboSamoor/polyglot)
