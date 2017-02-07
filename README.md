@@ -19,3 +19,8 @@ Libraries with support of the Norwegian language
 * <https://github.com/ljos/anna_lyse>
 * <https://github.com/petterhh/ndt-tools>
 * <https://github.com/andrely/Norwegian-NLP-models>
+
+
+## 
+* [https://www.nb.no/sprakbanken/show?serial=oai:nb.no:sbr-29&lang=>] (www.nb.no)
+  N-grams for Norwegian Bokmål (based on Norwegian news text)
