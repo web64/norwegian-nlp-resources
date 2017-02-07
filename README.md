@@ -22,5 +22,5 @@ Libraries with support of the Norwegian language
 
 
 ## 
-* [https://www.nb.no/sprakbanken/show?serial=oai:nb.no:sbr-29&lang=>] (www.nb.no)
+* [https://www.nb.no/sprakbanken/show?serial=oai:nb.no:sbr-29&lang=] (www.nb.no)
   N-grams for Norwegian Bokmål (based on Norwegian news text)
