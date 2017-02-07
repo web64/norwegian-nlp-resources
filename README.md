@@ -1,5 +1,5 @@
 # Norwegian NLP Resources
-A work-in-progress list useful NLP resources for Norwegian.
+A work-in-progress list of useful NLP resources for Norwegian.
 
 ## Commercial APIs
 * [http://orbit.ai](orbit.ai)
@@ -22,7 +22,5 @@ Libraries with support for the Norwegian language
 
 
 ## Data
-* [https://www.nb.no/sprakbanken/show?serial=oai:nb.no:sbr-29&lang=] (Språkbanken)
-  N-grams for Norwegian Bokmål (based on Norwegian news text)
-* [https://www.nb.no/sprakbanken/show?serial=oai:nb.no:sbr-8&lang=] (Språkbanken)
-  N-grams for Norwegian Nynorsk (based on NNC and NST)
+* [https://www.nb.no/sprakbanken/repositorium#ticketsfrom?lang=en&query=alle&tokens=&from=1&size=12&collection=sbr] (Språkbankens ressurskatalog)
+  Norwegian N-grams, lexicons, news corpus.
