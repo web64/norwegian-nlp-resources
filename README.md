@@ -22,8 +22,8 @@ Libraries with support for the Norwegian language
 
 
 ## Data
-* [https://www.nb.no/sprakbanken/repositorium#ticketsfrom?lang=en&query=alle&tokens=&from=1&size=12&collection=sbr] (Språkbankens ressurskatalog)
+* https://www.nb.no/sprakbanken/repositorium#ticketsfrom?lang=en&query=alle&tokens=&from=1&size=12&collection=sbr (Språkbankens ressurskatalog)
   Norwegian N-grams, lexicons, news corpus.
 
 ## Syntaxnet models
- * [https://github.com/tensorflow/models/blob/master/syntaxnet/g3doc/universal.md]
+ * https://github.com/tensorflow/models/blob/master/syntaxnet/g3doc/universal.md
