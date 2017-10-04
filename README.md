@@ -20,6 +20,9 @@ Libraries with support for the Norwegian language
 * <https://github.com/petterhh/ndt-tools>
 * <https://github.com/andrely/Norwegian-NLP-models>
 
+## Universal Dependencies v2
+* http://universaldependencies.org/#no_bokmaal
+* http://universaldependencies.org/#no_nynorsk
 
 ## Data
 * https://www.nb.no/sprakbanken/repositorium#ticketsfrom?lang=en&query=alle&tokens=&from=1&size=12&collection=sbr (Språkbankens ressurskatalog)
