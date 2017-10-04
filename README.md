@@ -19,6 +19,7 @@ Libraries with support for the Norwegian language
 * <https://github.com/ljos/anna_lyse>
 * <https://github.com/petterhh/ndt-tools>
 * <https://github.com/andrely/Norwegian-NLP-models>
+* <https://github.com/ljos/egennavn> Named-entity chunker for Norwegian 
 
 ## Universal Dependencies v2
 * http://universaldependencies.org/#no_bokmaal
