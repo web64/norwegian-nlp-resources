@@ -19,7 +19,7 @@ Libraries with support for the Norwegian language
 * <https://github.com/ljos/anna_lyse>
 * <https://github.com/petterhh/ndt-tools>
 * <https://github.com/andrely/Norwegian-NLP-models>
-* <https://github.com/ljos/egennavn> Named-entity chunker for Norwegian 
+* <https://github.com/ljos/egennavn> - Named-entity chunker for Norwegian 
 
 ## Universal Dependencies v2
 * http://universaldependencies.org/#no_bokmaal
@@ -30,7 +30,7 @@ Libraries with support for the Norwegian language
   Norwegian N-grams, lexicons, news corpus.
 
 ## Sentiment Analysis for Norwegian Text
- ** http://www.mn.uio.no/ifi/english/research/projects/sant/index.html
+ * http://www.mn.uio.no/ifi/english/research/projects/sant/index.html
 
 ## Syntaxnet models
  * https://github.com/tensorflow/models/blob/master/syntaxnet/g3doc/universal.md
