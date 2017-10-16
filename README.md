@@ -20,6 +20,7 @@ Libraries with support for the Norwegian language
 * <https://github.com/petterhh/ndt-tools>
 * <https://github.com/andrely/Norwegian-NLP-models>
 * <https://github.com/ljos/egennavn> - Named-entity chunker for Norwegian 
+* <https://github.com/draperunner/obt> - Python library for the Oslo-Bergen Tagger
 
 ## Universal Dependencies v2
 * http://universaldependencies.org/#no_bokmaal
