@@ -30,6 +30,9 @@ Libraries with support for the Norwegian language
 * https://www.nb.no/sprakbanken/repositorium#ticketsfrom?lang=en&query=alle&tokens=&from=1&size=12&collection=sbr (Språkbankens ressurskatalog)
   Norwegian N-grams, lexicons, news corpus.
 
+## Word Vectors
+ * <https://github.com/Kyubyong/wordvectors> Word2Vec & fastText word vectors for bokmål anf nynorsk.
+
 ## Sentiment Analysis for Norwegian Text
  * http://www.mn.uio.no/ifi/english/research/projects/sant/index.html
 
