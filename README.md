@@ -15,6 +15,12 @@ Libraries with support for the Norwegian language
 * [Polyglot](https://github.com/aboSamoor/polyglot)
 * [Textrank](https://github.com/summanlp/textrank)
 
+## Models 
+* https://github.com/ohenrik/nb_dep_ud_sm - Experimental Norwegian (Bokmål) language model for Spacy
+* https://github.com/ltgoslo/norec-baselines - NoReC baseline models, trained on the NoReC dataset.
+* https://github.com/tensorflow/models/blob/master/syntaxnet/g3doc/universal.md - Syntaxnet models
+* https://github.com/andrely/Norwegian-NLP-models - 2013
+* <https://github.com/Kyubyong/wordvectors> Word2Vec & fastText word vectors for bokmål and nynorsk.
 
 ## Norwegian specific libraries
 * <https://github.com/ljos/anna_lyse>
@@ -31,11 +37,6 @@ Libraries with support for the Norwegian language
   Norwegian N-grams, lexicons, news corpus.
 * https://github.com/ltgoslo/norec - NoReC: The Norwegian Review Corpu
 
-## Models 
-* https://github.com/ltgoslo/norec-baselines - NoReC baseline models, trained on the NoReC dataset.
-* https://github.com/tensorflow/models/blob/master/syntaxnet/g3doc/universal.md - Syntaxnet models
-* https://github.com/andrely/Norwegian-NLP-models - 2013
-* <https://github.com/Kyubyong/wordvectors> Word2Vec & fastText word vectors for bokmål and nynorsk.
 
 
 ## Sentiment Analysis for Norwegian Text
