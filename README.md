@@ -8,6 +8,8 @@ A work-in-progress list of useful NLP resources for Norwegian.
   Sentiment analysis
 * [monkeylearn.com](http://monkeylearn.com/)
   Text Classification
+* [tisane.ai](http://tisane.ai/)
+  Sentiment analysis & topics detection
 
 
 ## Open Source Libraries
