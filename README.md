@@ -4,9 +4,9 @@ A work-in-progress list of useful NLP resources for Norwegian.
 ## Commercial APIs
 * [orbit.ai](http://orbit.ai)
   Entity Extraction
-* [https://www.lexalytics.com/](lexalytics.com)
+* [lexalytics.com](https://www.lexalytics.com/)
   Sentiment analysis
-* [http://monkeylearn.com/](monkeylearn.com)
+* [monkeylearn.com](http://monkeylearn.com/)
   Text Classification
 
 
