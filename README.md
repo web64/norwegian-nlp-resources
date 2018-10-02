@@ -23,7 +23,8 @@ Libraries with support for the Norwegian language
 * https://github.com/ltgoslo/norec-baselines - NoReC baseline models, trained on the NoReC dataset.
 * https://github.com/tensorflow/models/blob/master/syntaxnet/g3doc/universal.md - Syntaxnet models
 * https://github.com/andrely/Norwegian-NLP-models - 2013
-* <https://github.com/Kyubyong/wordvectors> Word2Vec & fastText word vectors for bokmål and nynorsk.
+* https://github.com/Kyubyong/wordvectors - Word2Vec & fastText word vectors for bokmål and nynorsk.
+* https://github.com/emanlapponi/norlem-norwegian-lemmatizer - Lemmatizer for Norwegian that uses lexical and contextual information from the Norwegian Dependency Treebank (NDT)
 
 ## Norwegian specific libraries
 * <https://github.com/ljos/anna_lyse>
@@ -39,6 +40,7 @@ Libraries with support for the Norwegian language
 * https://www.nb.no/sprakbanken/repositorium#ticketsfrom?lang=en&query=alle&tokens=&from=1&size=12&collection=sbr (Språkbankens ressurskatalog)
   Norwegian N-grams, lexicons, news corpus.
 * https://github.com/ltgoslo/norec - NoReC: The Norwegian Review Corpu
+* https://github.com/ltgoslo/talk-of-norway -  Talk of Norway (ToN) dataset, a collection of Norwegian parliament speeches from 1998 to 2016
 
 
 
