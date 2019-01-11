@@ -13,6 +13,8 @@ Please let us know if you know of useful NLP resources we might have missed!
   Sentiment analysis & topics detection
 * [fairhair.ai](https://fairhair.ai/)
   Web data & information extraction
+* [textoptimizer.com](https://textoptimizer.com/m)
+  User intent and topic extraction
 
 
 ## Open Source Libraries
