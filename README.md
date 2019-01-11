@@ -11,6 +11,8 @@ Please let us know if you know of useful NLP resources we might have missed!
   Text Classification
 * [tisane.ai](http://tisane.ai/)
   Sentiment analysis & topics detection
+* [fairhair.ai](https://fairhair.ai/)
+  Web data & information extraction
 
 
 ## Open Source Libraries
