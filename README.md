@@ -23,6 +23,7 @@ Libraries with support for the Norwegian language
 * [Textrank](https://github.com/summanlp/textrank)
 
 ## Models 
+* http://vectors.nlpl.eu/repository/ - NLPL word embeddings repository
 * https://github.com/ohenrik/nb_dep_ud_sm - Experimental Norwegian (Bokmål) language model for Spacy
 * https://github.com/ltgoslo/norec-baselines - NoReC baseline models, trained on the NoReC dataset.
 * https://github.com/tensorflow/models/blob/master/syntaxnet/g3doc/universal.md - Syntaxnet models
