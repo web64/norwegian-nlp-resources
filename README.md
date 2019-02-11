@@ -2,6 +2,8 @@
 A work-in-progress list of useful NLP resources for Norwegian.
 Please let us know if you know of useful NLP resources we might have missed!
 
+Contact me at olav@web64.com
+
 ## Commercial APIs
 * [orbit.ai](http://orbit.ai)
   Entity Extraction
@@ -30,6 +32,7 @@ Libraries with support for the Norwegian language
 * https://github.com/andrely/Norwegian-NLP-models - 2013
 * https://github.com/Kyubyong/wordvectors - Word2Vec & fastText word vectors for bokmål and nynorsk.
 * https://github.com/emanlapponi/norlem-norwegian-lemmatizer - Lemmatizer for Norwegian that uses lexical and contextual information from the Norwegian Dependency Treebank (NDT)
+* https://stanfordnlp.github.io/stanfordnlp/installation_download.html#human-languages-supported-by-stanfordnlp - StanfordNLP Pretrained models: Bokmål, Nynorsk, NynorskLIA 
 
 ## Norwegian specific libraries
 * <https://github.com/ljos/anna_lyse>
@@ -37,9 +40,9 @@ Libraries with support for the Norwegian language
 * <https://github.com/ljos/egennavn> - Named-entity chunker for Norwegian 
 * https://github.com/draperunner/obt -  Python library for The Oslo-Bergen Tagger
 
-## Universal Dependencies v2
-* http://universaldependencies.org/#no_bokmaal
-* http://universaldependencies.org/#no_nynorsk
+## Universal Dependencies
+* http://universaldependencies.org/ - Bokmål, Nynorsk, NynorskLIA
+* https://github.com/search?q=org%3AUniversalDependencies+norwegian&unscoped_q=norwegian - Universal Dependencies on GitHub
 
 ## Data
 * https://www.nb.no/sprakbanken/repositorium#ticketsfrom?lang=en&query=alle&tokens=&from=1&size=12&collection=sbr (Språkbankens ressurskatalog)
