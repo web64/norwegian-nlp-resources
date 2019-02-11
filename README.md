@@ -50,6 +50,7 @@ Libraries with support for the Norwegian language
   Norwegian N-grams, lexicons, news corpus.
 * https://github.com/ltgoslo/norec - NoReC: The Norwegian Review Corpu
 * https://github.com/ltgoslo/talk-of-norway -  Talk of Norway (ToN) dataset, a collection of Norwegian parliament speeches from 1998 to 2016
+* https://github.com/stopwords-iso/stopwords-no - Norwegian stopwords in JSON or txt format
 
 
 
