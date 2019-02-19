@@ -26,7 +26,7 @@ Libraries with support for the Norwegian language
 * [Textrank](https://github.com/summanlp/textrank)
 
 ## Models 
-* https://github.com/ohenrik/nb_dep_ud_sm - Experimental Norwegian (Bokmål) language model for Spacy (Including NER)
+* https://github.com/ohenrik/nb_news_ud_sm- Experimental Norwegian (Bokmål) language model for Spacy (Including NER)
 * https://github.com/navikt/ai-lab-spacy-bokmaal - Norwegian model for spaCy
 * http://vectors.nlpl.eu/repository/ - NLPL word embeddings repository
 * https://github.com/ohenrik/nb_dep_ud_sm - Experimental Norwegian (Bokmål) language model for Spacy
