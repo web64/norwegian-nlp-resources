@@ -1,6 +1,7 @@
 # Norwegian NLP Resources
 A work-in-progress list of useful NLP resources for Norwegian.
-Please let us know if you know of useful NLP resources we might have missed!
+
+Please let us know if there are useful NLP resources we might have missed!
 
 Contact me at olav@web64.com
 
