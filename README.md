@@ -7,7 +7,9 @@ Contact me at olav@web64.com
 
 ## Commercial APIs
 * [orbit.ai](http://orbit.ai)
-  Entity Extraction
+  Text generation, Entity Extraction
+* [tagbox.ai](http://tagbox.ai)
+  Automated geotagging
 * [lexalytics.com](https://www.lexalytics.com/)
   Sentiment analysis
 * [monkeylearn.com](http://monkeylearn.com/)
