@@ -68,4 +68,9 @@ Libraries with support for the Norwegian language
 
 ## Sentiment Analysis for Norwegian Text
  * http://www.mn.uio.no/ifi/english/research/projects/sant/index.html
- 
+
+<hr />
+Join our Facebook Group here https://www.facebook.com/groups/nlpnorway/
+<p align="center">
+  <img src="http://cdn.web64.com/nlp-norway/NLP-Norway-mountain-badge-1-colored-460px.png">
+ </p>
