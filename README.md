@@ -1,9 +1,16 @@
 # Norwegian NLP Resources
+
+<a href="https://www.facebook.com/groups/nlpnorway/">
+<img src="http://cdn.web64.com/nlp-norway/nlp-norway-github-cover.jpg">
+</a>
 A work-in-progress list of useful NLP resources for Norwegian.
 
 Please let us know if there are useful NLP resources we might have missed!
 
 Contact me at olav@web64.com
+
+## Facebook Group
+Join our Facebook Group: https://www.facebook.com/groups/nlpnorway/
 
 ## Commercial APIs
 * [orbit.ai](http://orbit.ai)
