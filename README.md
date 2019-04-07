@@ -69,6 +69,7 @@ Libraries with support for the Norwegian language
 
 ## Sentiment Analysis for Norwegian Text
  * http://www.mn.uio.no/ifi/english/research/projects/sant/index.html
+ * https://github.com/olavski/afinn/blob/master/afinn/data/AFINN-no-165.txt - Work-in-progress AFINN Morwegian sentiment lexicon
 
 <hr />
 Join our Facebook Group here https://www.facebook.com/groups/nlpnorway/
