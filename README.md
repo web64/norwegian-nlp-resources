@@ -57,7 +57,10 @@ Libraries with support for the Norwegian language
 
 ## Universal Dependencies
 * http://universaldependencies.org/ - Bokmål, Nynorsk, NynorskLIA
-* https://github.com/search?q=org%3AUniversalDependencies+norwegian&unscoped_q=norwegian - Universal Dependencies on GitHub
+* [https://github.com/UniversalDependencies/UD_Norwegian-Bokmaal](UD_Norwegian-Bokmaal)
+* [https://github.com/UniversalDependencies/UD_Norwegian-Nynorsk](UD_Norwegian-Nynorsk)
+* [https://github.com/UniversalDependencies/UD_Norwegian-NynorskLIA](UD_Norwegian-NynorskLIA)
+
 
 ## Data
 * https://www.nb.no/sprakbanken/repositorium#ticketsfrom?lang=en&query=alle&tokens=&from=1&size=12&collection=sbr (Språkbankens ressurskatalog)
