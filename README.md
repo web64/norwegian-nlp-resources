@@ -46,7 +46,8 @@ Libraries with support for the Norwegian language
 * https://github.com/andrely/Norwegian-NLP-models - 2013
 * https://github.com/Kyubyong/wordvectors - Word2Vec & fastText word vectors for bokmål and nynorsk.
 * https://github.com/emanlapponi/norlem-norwegian-lemmatizer - Lemmatizer for Norwegian that uses lexical and contextual information from the Norwegian Dependency Treebank (NDT)
-* https://stanfordnlp.github.io/stanfordnlp/installation_download.html#human-languages-supported-by-stanfordnlp - StanfordNLP Pretrained models: Bokmål, Nynorsk, NynorskLIA 
+* https://stanfordnlp.github.io/stanfordnlp/installation_download.html#human-languages-supported-by-stanfordnlp - StanfordNLP Pretrained models: Bokmål, Nynorsk, NynorskLIA
+* https://github.com/bheinzerling/bpemb - GloVe word vectors based on Byte-Pair Encoding (BPE)
 
 ## Norwegian specific libraries
 * <https://github.com/ljos/anna_lyse>
