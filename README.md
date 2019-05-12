@@ -12,42 +12,32 @@ Contact me at olav@web64.com
 ## Facebook Group
 Join our Facebook Group: https://www.facebook.com/groups/nlpnorway/
 
-## Commercial APIs
-* [orbit.ai](http://orbit.ai)
-  Text generation, Entity Extraction
-* [tagbox.ai](http://tagbox.ai)
-  Automated geotagging
-* [lexalytics.com](https://www.lexalytics.com/)
-  Sentiment analysis
-* [monkeylearn.com](http://monkeylearn.com/)
-  Text Classification
-* [tisane.ai](http://tisane.ai/)
-  Sentiment analysis & topics detection
-* [fairhair.ai](https://fairhair.ai/)
-  Web data & information extraction
-* [textoptimizer.com](https://textoptimizer.com/m)
-  User intent and topic extraction
-
 
 ## Open Source Libraries
 Libraries with support for the Norwegian language
 * [Polyglot](https://github.com/aboSamoor/polyglot)
 * [Textrank](https://github.com/summanlp/textrank)
 
+## Spacy
+* https://github.com/web64/spacy-norwegian - Train norwegian models for Spacy
+* https://github.com/ohenrik/nb_news_ud_sm - Experimental Norwegian (Bokmål) language model for Spacy (Including NER)
+* https://github.com/ohenrik/nb_dep_ud_sm - Experimental Norwegian (Bokmål) language model for Spacy
+* https://github.com/navikt/ai-lab-spacy-bokmaal - Norwegian model for spaCy
+
 ## Models 
 * https://github.com/HIT-SCIR/ELMoForManyLangs - Pre-trained ELMo Representations 
-* https://github.com/ohenrik/nb_news_ud_sm - Experimental Norwegian (Bokmål) language model for Spacy (Including NER)
-* https://github.com/navikt/ai-lab-spacy-bokmaal - Norwegian model for spaCy
-* http://vectors.nlpl.eu/repository/ - NLPL word embeddings repository
-* https://github.com/ohenrik/nb_dep_ud_sm - Experimental Norwegian (Bokmål) language model for Spacy
-* https://github.com/web64/norec-fasttext - Train NoReC FastText models
 * https://github.com/ltgoslo/norec-baselines - NoReC baseline models, trained on the NoReC dataset.
 * https://github.com/tensorflow/models/blob/master/syntaxnet/g3doc/universal.md - Syntaxnet models
 * https://github.com/andrely/Norwegian-NLP-models - 2013
-* https://github.com/Kyubyong/wordvectors - Word2Vec & fastText word vectors for bokmål and nynorsk.
 * https://github.com/emanlapponi/norlem-norwegian-lemmatizer - Lemmatizer for Norwegian that uses lexical and contextual information from the Norwegian Dependency Treebank (NDT)
 * https://stanfordnlp.github.io/stanfordnlp/installation_download.html#human-languages-supported-by-stanfordnlp - StanfordNLP Pretrained models: Bokmål, Nynorsk, NynorskLIA
+
+
+## Word Vectors
+* http://vectors.nlpl.eu/repository/ - NLPL word embeddings repository
 * https://github.com/bheinzerling/bpemb - GloVe word vectors based on Byte-Pair Encoding (BPE)
+* https://github.com/Kyubyong/wordvectors - Word2Vec & fastText word vectors for bokmål and nynorsk.
+
 
 ## Norwegian specific libraries
 * <https://github.com/ljos/anna_lyse>
@@ -74,6 +64,24 @@ Libraries with support for the Norwegian language
 ## Sentiment Analysis for Norwegian Text
  * http://www.mn.uio.no/ifi/english/research/projects/sant/index.html
  * https://github.com/olavski/afinn/blob/master/afinn/data/AFINN-no-165.txt - Work-in-progress AFINN Norwegian sentiment lexicon
+ * https://github.com/web64/norec-fasttext - Train NoReC FastText Sentiment Analysis models
+
+
+## Commercial APIs
+* [orbit.ai](http://orbit.ai)
+  Text generation, Entity Extraction
+* [tagbox.ai](http://tagbox.ai)
+  Automated geotagging
+* [lexalytics.com](https://www.lexalytics.com/)
+  Sentiment analysis
+* [monkeylearn.com](http://monkeylearn.com/)
+  Text Classification
+* [tisane.ai](http://tisane.ai/)
+  Sentiment analysis & topics detection
+* [fairhair.ai](https://fairhair.ai/)
+  Web data & information extraction
+* [textoptimizer.com](https://textoptimizer.com/m)
+  User intent and topic extraction
 
 <hr />
 Join our Facebook Group here https://www.facebook.com/groups/nlpnorway/
