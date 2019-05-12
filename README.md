@@ -20,6 +20,7 @@ Libraries with support for the Norwegian language
 
 ## Spacy
 * https://github.com/web64/spacy-norwegian - Train norwegian models for Spacy
+* https://github.com/jarib/spacy-nb - Scripts to build a Norwegian model for spacy
 * https://github.com/ohenrik/nb_news_ud_sm - Experimental Norwegian (Bokmål) language model for Spacy (Including NER)
 * https://github.com/ohenrik/nb_dep_ud_sm - Experimental Norwegian (Bokmål) language model for Spacy
 * https://github.com/navikt/ai-lab-spacy-bokmaal - Norwegian model for spaCy
