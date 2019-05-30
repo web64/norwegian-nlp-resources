@@ -84,6 +84,9 @@ Libraries with support for the Norwegian language
 * [textoptimizer.com](https://textoptimizer.com/m)
   User intent and topic extraction
 
+## Papers
+* [Joint UD Parsing of Norwegian Bokmål and Nynorsk](http://www.ep.liu.se/ecp/131/001/ecp17131001.pdf)
+
 <hr />
 Join our Facebook Group here https://www.facebook.com/groups/nlpnorway/
 <p align="center">
