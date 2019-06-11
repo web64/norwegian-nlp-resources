@@ -86,6 +86,11 @@ Libraries with support for the Norwegian language
 * [textoptimizer.com](https://textoptimizer.com/m)
   User intent and topic extraction
 
+## Dictionaries
+* [LibreOffice - no](https://github.com/LibreOffice/dictionaries/tree/master/no)
+* [dictionary-nb](https://github.com/wooorm/dictionaries/tree/master/dictionaries/nb) Norwegian Bokmål spelling dictionary in UTF-8.
+* [dictionary-nn](https://github.com/wooorm/dictionaries/tree/master/dictionaries/nn) Norwegian Nynorsk spelling dictionary in UTF-8..
+
 ## Papers
 * [Joint UD Parsing of Norwegian Bokmål and Nynorsk](http://www.ep.liu.se/ecp/131/001/ecp17131001.pdf)
 
