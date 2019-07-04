@@ -41,10 +41,11 @@ Libraries with support for the Norwegian language
 
 
 ## Norwegian specific libraries
-* <https://github.com/ljos/anna_lyse>
-* <https://github.com/petterhh/ndt-tools>
-* <https://github.com/ljos/egennavn> - Named-entity chunker for Norwegian 
-* <https://github.com/noklesta/The-Oslo-Bergen-Tagger> - The Oslo Bergen Tagger
+* https://github.com/textlab/mtag - The Oslo-Bergen Multitagger for Norwegian Bokmål and Nynorsk (python)
+* https://github.com/ljos/anna_lyse - Language parser for Norwegian Bokmål and Nynorsk
+* https://github.com/petterhh/ndt-tools - Norwegian Dependency Treebank(NDT) Tools
+* https://github.com/ljos/egennavn - Named-entity chunker for Norwegian 
+* https://github.com/noklesta/The-Oslo-Bergen-Tagger - The Oslo Bergen Tagger
 * https://github.com/draperunner/obt -  Python library for The Oslo-Bergen Tagger
 
 ## Universal Dependencies
