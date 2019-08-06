@@ -26,6 +26,7 @@ Libraries with support for the Norwegian language
 * https://github.com/navikt/ai-lab-spacy-bokmaal - Norwegian model for spaCy
 
 ## Models 
+* https://github.com/ljos/navnkjenner - Named-Entity Recognition for Norwegian Bokmål and Nynorsk
 * https://github.com/HIT-SCIR/ELMoForManyLangs - Pre-trained ELMo Representations 
 * https://github.com/ltgoslo/norec-baselines - NoReC baseline models, trained on the NoReC dataset.
 * https://github.com/tensorflow/models/blob/master/syntaxnet/g3doc/universal.md - Syntaxnet models
