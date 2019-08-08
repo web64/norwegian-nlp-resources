@@ -33,7 +33,7 @@ Libraries with support for the Norwegian language
 * https://github.com/andrely/Norwegian-NLP-models - 2013
 * https://github.com/emanlapponi/norlem-norwegian-lemmatizer - Lemmatizer for Norwegian that uses lexical and contextual information from the Norwegian Dependency Treebank (NDT)
 * https://stanfordnlp.github.io/stanfordnlp/installation_download.html#human-languages-supported-by-stanfordnlp - StanfordNLP Pretrained models: Bokmål, Nynorsk, NynorskLIA
-
+* https://github.com/mollerhoj/Scandinavian-ULMFiT - The weights for the embedding layer of a Scandinavian UMLFiT language models
 
 ## Word Vectors
 * http://vectors.nlpl.eu/repository/ - NLPL word embeddings repository
