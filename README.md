@@ -97,6 +97,9 @@ Libraries with support for the Norwegian language
 * [Evaluating Semantic Vectors for Norwegian](https://www.duo.uio.no/handle/10852/61756)
 * [Joint UD Parsing of Norwegian Bokmål and Nynorsk](http://www.ep.liu.se/ecp/131/001/ecp17131001.pdf)
 
+## Related Resources
+ * [DaNLP](https://github.com/alexandrainst/danlp) Repository for NLP resources for the Danish Language
+
 <hr />
 Join our Facebook Group here https://www.facebook.com/groups/nlpnorway/
 <p align="center">
