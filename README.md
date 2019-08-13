@@ -99,6 +99,11 @@ Libraries with support for the Norwegian language
 
 ## Related Resources
  * [DaNLP](https://github.com/alexandrainst/danlp) Repository for NLP resources for the Danish Language
+ * [GitHub Topic: norwegian](https://github.com/topics/norwegian)
+ * [GitHub Topic: norsk](https://github.com/topics/norsk)
+ * [GitHub Topic: nynorsk](https://github.com/topics/nynorsk)
+ * [GitHub Topic: bokmal](https://github.com/topics/bokmal)
+ 
 
 <hr />
 Join our Facebook Group here https://www.facebook.com/groups/nlpnorway/
