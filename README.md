@@ -19,6 +19,7 @@ Libraries with support for the Norwegian language
 * [Textrank](https://github.com/summanlp/textrank)
 
 ## Spacy
+Official support for Norwegian is coming in Spacy version 2.2!
 * https://github.com/web64/spacy-norwegian - Train norwegian models for Spacy
 * https://github.com/jarib/spacy-nb - Scripts to build a Norwegian model for spacy
 * https://github.com/ohenrik/nb_news_ud_sm - Experimental Norwegian (Bokmål) language model for Spacy (Including NER)
