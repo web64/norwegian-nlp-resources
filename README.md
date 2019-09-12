@@ -25,6 +25,9 @@ Libraries with support for the Norwegian language
 * https://github.com/ohenrik/nb_dep_ud_sm - Experimental Norwegian (Bokmål) language model for Spacy
 * https://github.com/navikt/ai-lab-spacy-bokmaal - Norwegian model for spaCy
 
+## NLTK
+* [Teaching NLTK Norwegian](https://www.duo.uio.no/bitstream/handle/10852/59276/11/Teaching_NLTK_Norwegian.pdf) - Master thesis by Bo Bjerke (PDF)
+
 ## Models 
 * https://github.com/ljos/navnkjenner - Named-Entity Recognition for Norwegian Bokmål and Nynorsk
 * https://github.com/HIT-SCIR/ELMoForManyLangs - Pre-trained ELMo Representations 
