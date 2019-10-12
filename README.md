@@ -19,7 +19,7 @@ Libraries with support for the Norwegian language
 * [Textrank](https://github.com/summanlp/textrank)
 
 ## Spacy
-Official support for Norwegian is coming in Spacy version 2.2!
+* https://spacy.io/models/nb - Official support for Norwegian from Spacy(2.2.0)
 * https://github.com/web64/spacy-norwegian - Train norwegian models for Spacy
 * https://github.com/jarib/spacy-nb - Scripts to build a Norwegian model for spacy
 * https://github.com/ohenrik/nb_news_ud_sm - Experimental Norwegian (Bokmål) language model for Spacy (Including NER)
@@ -30,6 +30,7 @@ Official support for Norwegian is coming in Spacy version 2.2!
 * [Teaching NLTK Norwegian](https://www.duo.uio.no/bitstream/handle/10852/59276/11/Teaching_NLTK_Norwegian.pdf) - Master thesis by Bo Bjerke (PDF)
 
 ## Models 
+* https://github.com/explosion/spacy-models/releases/tag/nb_core_news_sm-2.2.0 - Pretrained statistical models for Norwegian Bokmål
 * https://github.com/ljos/navnkjenner - Named-Entity Recognition for Norwegian Bokmål and Nynorsk
 * https://github.com/HIT-SCIR/ELMoForManyLangs - Pre-trained ELMo Representations 
 * https://github.com/ltgoslo/norec-baselines - NoReC baseline models, trained on the NoReC dataset.
