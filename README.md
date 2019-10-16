@@ -17,6 +17,7 @@ Join our Facebook Group: https://www.facebook.com/groups/nlpnorway/
 Libraries with support for the Norwegian language
 * [Polyglot](https://github.com/aboSamoor/polyglot)
 * [Textrank](https://github.com/summanlp/textrank)
+* [Spacy](https://github.com/explosion/spaCy)
 
 ## Spacy
 * https://spacy.io/models/nb - Official support for Norwegian from Spacy(2.2.0)
@@ -44,6 +45,7 @@ Libraries with support for the Norwegian language
 * http://vectors.nlpl.eu/repository/ - NLPL word embeddings repository
 * https://github.com/bheinzerling/bpemb - GloVe word vectors based on Byte-Pair Encoding (BPE)
 * https://github.com/Kyubyong/wordvectors - Word2Vec & fastText word vectors for bokmål and nynorsk.
+* https://fasttext.cc/docs/en/crawl-vectors.html - fastText word vectors trained on common crawl and wikipedia.
 
 
 ## Norwegian specific libraries
