@@ -79,6 +79,9 @@ Libraries with support for the Norwegian language
  * https://github.com/web64/norec-fasttext - Train NoReC FastText Sentiment Analysis models
 
 
+## English-Norwegian parallel corpus
+ * http://data.europa.eu/euodp/en/data/dataset/elrc_1061
+
 ## Commercial APIs
 * [orbit.ai](http://orbit.ai)
   Text generation, Entity Extraction
