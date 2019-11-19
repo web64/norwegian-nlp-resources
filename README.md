@@ -64,14 +64,14 @@ Libraries with support for the Norwegian language
 * [Joint UD Parsing of Norwegian Bokmål and Nynorsk](https://github.com/erikve/bm-nn-parsing)
 
 
-## Data
+## Data & Corpus 
 * https://www.nb.no/sprakbanken/repositorium#ticketsfrom?lang=en&query=alle&tokens=&from=1&size=12&collection=sbr (Språkbankens ressurskatalog)
   Norwegian N-grams, lexicons, news corpus.
 * https://github.com/ltgoslo/norec - NoReC: The Norwegian Review Corpu
 * https://github.com/ltgoslo/talk-of-norway -  Talk of Norway (ToN) dataset, a collection of Norwegian parliament speeches from 1998 to 2016
 * https://github.com/stopwords-iso/stopwords-no - Norwegian stopwords in JSON or txt format
 * https://github.com/ltgoslo/norne - NORwegian Named Entities
-
+* https://www.sketchengine.eu/notenten-norwegian-corpus/ - noTenTen: Corpus of the Norwegian Web
 
 ## Sentiment Analysis for Norwegian Text
  * http://www.mn.uio.no/ifi/english/research/projects/sant/index.html
