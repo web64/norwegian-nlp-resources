@@ -27,6 +27,9 @@ Libraries with support for the Norwegian language
 * https://github.com/ohenrik/nb_dep_ud_sm - Experimental Norwegian (Bokmål) language model for Spacy
 * https://github.com/navikt/ai-lab-spacy-bokmaal - Norwegian model for spaCy
 
+## BERT
+* https://github.com/botxo/nordic_bert - Nordic BERT: Norwegian Model: (Trained on 4.5gb text)
+
 ## NLTK
 * [Teaching NLTK Norwegian](https://www.duo.uio.no/bitstream/handle/10852/59276/11/Teaching_NLTK_Norwegian.pdf) - Master thesis by Bo Bjerke (PDF)
 
