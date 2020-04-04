@@ -108,6 +108,7 @@ Libraries with support for the Norwegian language
 * [dictionary-nn](https://github.com/wooorm/dictionaries/tree/master/dictionaries/nn) Norwegian Nynorsk spelling dictionary in UTF-8..
 
 ## Papers
+* [An automatic analysis of Norwegian compounds](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.23.7469&rep=rep1&type=pdf)
 * [Evaluating Semantic Vectors for Norwegian](https://www.duo.uio.no/handle/10852/61756)
 * [Joint UD Parsing of Norwegian Bokmål and Nynorsk](http://www.ep.liu.se/ecp/131/001/ecp17131001.pdf)
 
