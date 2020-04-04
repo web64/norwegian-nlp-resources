@@ -75,6 +75,7 @@ Libraries with support for the Norwegian language
 * https://github.com/stopwords-iso/stopwords-no - Norwegian stopwords in JSON or txt format
 * https://github.com/ltgoslo/norne - NORwegian Named Entities
 * https://www.sketchengine.eu/notenten-norwegian-corpus/ - noTenTen: Corpus of the Norwegian Web
+* https://github.com/unhammer/fugeord - Fugeord
 
 ## Sentiment Analysis for Norwegian Text
  * http://www.mn.uio.no/ifi/english/research/projects/sant/index.html
