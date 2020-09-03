@@ -78,7 +78,9 @@ Libraries with support for the Norwegian language
 * https://github.com/unhammer/fugeord - Fugeord
 
 ## Sentiment Analysis for Norwegian Text
+ * https://www.usit.uio.no/om/organisasjon/itf/ds/faglig/seminarer/spraak-teknologi-betydning/sant.pdf (PDF) SANT: Sentiment Analysis for Norwegian Text
  * http://www.mn.uio.no/ifi/english/research/projects/sant/index.html
+ * https://github.com/ltgoslo/norsentlex - NorSentLex: Norwegian sentiment lexicon of positive and negative words
  * https://github.com/olavski/afinn/blob/master/afinn/data/AFINN-no-165.txt - Work-in-progress AFINN Norwegian sentiment lexicon
  * https://github.com/web64/norec-fasttext - Train NoReC FastText Sentiment Analysis models
 
