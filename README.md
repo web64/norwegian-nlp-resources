@@ -87,6 +87,8 @@ Libraries with support for the Norwegian language
  * http://data.europa.eu/euodp/en/data/dataset/elrc_1061
 
 ## Commercial APIs
+* [repustate.com](https://www.repustate.com/norwegian-sentiment-analysis/)
+  Norwegian Sentiment Analysis
 * [orbit.ai](http://orbit.ai)
   Text generation, Entity Extraction
 * [tagbox.ai](http://tagbox.ai)
