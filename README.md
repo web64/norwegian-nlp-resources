@@ -28,6 +28,8 @@ Libraries with support for the Norwegian language
 * https://github.com/navikt/ai-lab-spacy-bokmaal - Norwegian model for spaCy
 
 ## BERT
+* https://github.com/NBAiLab/notram - NoTraM - Norwegian Transformer Mode
+* http://wiki.nlpl.eu/Vectors/norlm/norbert - NorBERT: Bidirectional Encoder Representations from Transformers
 * https://github.com/botxo/nordic_bert - Nordic BERT: Norwegian Model: (Trained on 4.5gb text)
 
 ## NLTK
