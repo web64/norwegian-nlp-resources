@@ -86,6 +86,9 @@ Libraries with support for the Norwegian language
  * https://github.com/olavski/afinn/blob/master/afinn/data/AFINN-no-165.txt - Work-in-progress AFINN Norwegian sentiment lexicon
  * https://github.com/web64/norec-fasttext - Train NoReC FastText Sentiment Analysis models
 
+## Machine Translation
+ * https://github.com/UKPLab/EasyNMT 
+ * https://github.com/Animenosekai/translate 
 
 ## English-Norwegian parallel corpus
  * http://data.europa.eu/euodp/en/data/dataset/elrc_1061
