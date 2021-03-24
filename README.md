@@ -90,6 +90,16 @@ Libraries with support for the Norwegian language
  * https://github.com/UKPLab/EasyNMT 
  * https://github.com/Animenosekai/translate 
 
+**Apertium**
+
+Main library: https://github.com/apertium/apertium-python
+
+Language model:
+
+ * https://github.com/apertium/apertium-nno-nob
+ * https://github.com/apertium/apertium-nno
+ * https://github.com/apertium/apertium-nob
+
 ## English-Norwegian parallel corpus
  * http://data.europa.eu/euodp/en/data/dataset/elrc_1061
 
@@ -122,6 +132,8 @@ Libraries with support for the Norwegian language
 * [Joint UD Parsing of Norwegian Bokmål and Nynorsk](http://www.ep.liu.se/ecp/131/001/ecp17131001.pdf)
 
 ## Related Resources
+ * [Saami language technology](https://giellatekno.uit.no/)
+ * [Translation Memory](https://giellalt.uit.no/tm/TranslationMemory.html)
  * [DaNLP](https://github.com/alexandrainst/danlp) Repository for NLP resources for the Danish Language
  * [GitHub Topic: norwegian](https://github.com/topics/norwegian)
  * [GitHub Topic: norsk](https://github.com/topics/norsk)
